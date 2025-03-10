@@ -83,4 +83,6 @@ hello0000000000214
 > [!Important] 
 > Нужно установить библиотеку SFML 2.6
 
-![gif](crackme/animation)
+
+![gif](crackme/animation.gif)
+
